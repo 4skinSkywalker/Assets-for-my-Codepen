@@ -8,7 +8,7 @@
    y="0px"
    viewBox="0 0 1200 675"
    xml:space="preserve"
-   sodipodi:docname="level.svg"
+   sodipodi:docname="base-level.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    width="1200"
    height="675"
@@ -305,7 +305,7 @@
      cy="1053.162"
      r="22.77928"
      clip-path="url(#clipPath93813)" /><rect
-     style="fill:#e0e1e5;fill-opacity:1;stroke:none;stroke-width:3.75576;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#c7c9d0;fill-opacity:1;stroke:none;stroke-width:3.75576;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect48859"
      width="590.74274"
      height="302.20517"
